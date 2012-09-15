@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/21/trunk/include
+END
+crypto_uint64.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/include/crypto_uint64.h
+END
+cpucycles.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/21/trunk/include/cpucycles.h
+END
+crypto_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/include/crypto_stream.h
+END
+crypto_onetimeauth_poly1305.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/include/crypto_onetimeauth_poly1305.h
+END
+crypto_secretbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/include/crypto_secretbox.h
+END
+crypto_int32.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/include/crypto_int32.h
+END
+crypto_int16.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/include/crypto_int16.h
+END
+crypto_auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/21/trunk/include/crypto_auth.h
+END
+crypto_hashblocks_sha512.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/include/crypto_hashblocks_sha512.h
+END
+crypto_hash_sha512.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/include/crypto_hash_sha512.h
+END
+crypto_uint8.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/include/crypto_uint8.h
+END
+crypto_stream_salsa208.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/include/crypto_stream_salsa208.h
+END
+crypto_stream_xsalsa20.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/include/crypto_stream_xsalsa20.h
+END
+crypto_verify_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/include/crypto_verify_32.h
+END
+crypto_hashblocks_sha256.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/include/crypto_hashblocks_sha256.h
+END
+crypto_auth_hmacsha512256.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/include/crypto_auth_hmacsha512256.h
+END
+crypto_verify_16.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/include/crypto_verify_16.h
+END
+crypto_hash_sha256.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/include/crypto_hash_sha256.h
+END
+crypto_int8.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/21/trunk/include/crypto_int8.h
+END
+crypto_onetimeauth.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/include/crypto_onetimeauth.h
+END
+crypto_auth_hmacsha256.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/include/crypto_auth_hmacsha256.h
+END
+crypto_uint32.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/include/crypto_uint32.h
+END
+crypto_core_hsalsa20.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/include/crypto_core_hsalsa20.h
+END
+crypto_uint16.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/include/crypto_uint16.h
+END
+crypto_stream_aes128ctr.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/include/crypto_stream_aes128ctr.h
+END
+crypto_secretbox_xsalsa20poly1305.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/21/trunk/include/crypto_secretbox_xsalsa20poly1305.h
+END
+crypto_box.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/21/trunk/include/crypto_box.h
+END
+crypto_box_curve25519xsalsa20poly1305.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/21/trunk/include/crypto_box_curve25519xsalsa20poly1305.h
+END
+crypto_sign.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/21/trunk/include/crypto_sign.h
+END
+crypto_int64.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/include/crypto_int64.h
+END
+crypto_sign_edwards25519sha512batch.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/21/trunk/include/crypto_sign_edwards25519sha512batch.h
+END
+crypto_core_salsa208.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/include/crypto_core_salsa208.h
+END
+crypto_core_salsa20.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/include/crypto_core_salsa20.h
+END
+crypto_core_salsa2012.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/include/crypto_core_salsa2012.h
+END
+crypto_stream_salsa20.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/include/crypto_stream_salsa20.h
+END
+crypto_hashblocks.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/include/crypto_hashblocks.h
+END
+crypto_scalarmult_curve25519.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/21/trunk/include/crypto_scalarmult_curve25519.h
+END
+crypto_hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/21/trunk/include/crypto_hash.h
+END
+crypto_stream_salsa2012.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/include/crypto_stream_salsa2012.h
+END
+randombytes.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/21/trunk/include/randombytes.h
+END
